@@ -2,10 +2,11 @@ using System;
 using System.Reflection.Metadata.Ecma335;
 namespace Dotnet
 {
+    // class and objects creation
     public class BankAccount
     {
-        public string HolderName;
-        private float balance;
+        public string HolderName {get; set;};
+        private float balance; // Usage of encapsulation
 
         public void Deposit(float amount)
         {
@@ -33,7 +34,7 @@ namespace Dotnet
     {
         static void Main(string[] args)
         {
-
+            // Method Creation
             BankAccount obj = new BankAccount();
             obj.HolderName = "Jaanu";
             obj.Deposit(10000.00F);
