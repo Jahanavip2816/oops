@@ -12,3 +12,4 @@ C:\Users\jahanavi.p\Desktop\c#\obj\Debug\net9.0\refint\c#.dll
 C:\Users\jahanavi.p\Desktop\c#\obj\Debug\net9.0\c#.pdb
 C:\Users\jahanavi.p\Desktop\c#\obj\Debug\net9.0\c#.genruntimeconfig.cache
 C:\Users\jahanavi.p\Desktop\c#\obj\Debug\net9.0\ref\c#.dll
+C:\Users\jahanavi.p\Desktop\c#\obj\Debug\net9.0\c#.sourcelink.json
