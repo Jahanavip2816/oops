@@ -45,9 +45,9 @@ namespace Dotnet
             obj2.Withdraw(10000.00F);
             obj2.Details();
 
-            BankAccount obj3 = new BankAccount() { HolderName = "Jahanavi" };
-            obj3.Deposit(25000.00F);
-            obj3.Details();
+            // BankAccount obj3 = new BankAccount() { HolderName = "Jahanavi" };
+            // obj3.Deposit(25000.00F);
+            // obj3.Details();
 
         }
     }
